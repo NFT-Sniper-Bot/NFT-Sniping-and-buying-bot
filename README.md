@@ -15,7 +15,7 @@ Compatible with all EVM-compatible chains.
 
 ![Live Demo](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1635506826760x935511524441736600%2FAnimation.gif?w=768&h=273&auto=compress&fit=crop&dpr=1)
 
-*Minting 5 NFTs during a lunch in under 115 ms*
+*Minting 5 NFTs during a launch in under 115 ms*
 
 ---
 
